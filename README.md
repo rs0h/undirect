@@ -1,5 +1,7 @@
-undirect
+undirect2+Y
 ========
+
+Added support for Yandex search engine.
 
 When searching using google, the result links don't go directly to the site - they first send the user to an interim "redirecting" page, which they use to keep track of user's search results
 
@@ -9,4 +11,6 @@ Undirect is a simple chrome extension that removes this tracking and redirection
 
 Works for all google domains across all countries, and is very light-weight. 
 
-[Undirect @ Chrome Web Store](https://chrome.google.com/webstore/detail/dohbiijnjeiejifbgfdhfknogknkglio "Undirect")
+Added  
+
+[Undirect @ Chrome Web Store](https://chrome.google.com/webstore/detail/jfebkedkdgaflmmfgmdioeadloofjgdk "Undirect2+Y")
